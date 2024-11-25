@@ -1,0 +1,5 @@
+# ninja log v5
+0	46	1701022263185888075	CMakeFiles/signalClientServer.dir/main.c.o	29ecbc72e2429f8c
+47	95	1701022263235536908	signalClientServer	a4ebbcecd773d932
+0	200	1717332523566039724	CMakeFiles/signalClientServer.dir/main.c.o	29ecbc72e2429f8c
+201	245	1717332523611791185	signalClientServer	a4ebbcecd773d932

@@ -1,0 +1,3 @@
+/Users/atnovember/CLionProjects/signalServerClient_client_c99/cmake-build-debug/CMakeFiles/signalServerClient_client_c99.dir
+/Users/atnovember/CLionProjects/signalServerClient_client_c99/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/atnovember/CLionProjects/signalServerClient_client_c99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
